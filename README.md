@@ -24,3 +24,4 @@ and
 - ROPgadget ([link](https://github.com/JonathanSalwan/ROPgadget))
 - one_gadget ([link](https://github.com/david942j/one_gadget))
 - gdb-peda ([link](https://github.com/longld/peda))
+- Pwngdb ([link](https://github.com/scwuaptx/Pwngdb))
